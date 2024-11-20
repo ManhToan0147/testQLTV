@@ -1,0 +1,360 @@
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.pdb
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\EnvDTE.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\stdole.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.AssemblyReference.cache
+D:\My Project\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
+D:\My Project\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.cache
+D:\My Project\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.CoreCompileInputs.cache
+D:\My Project\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.Up2Date
+D:\My Project\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.exe
+D:\My Project\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\x86\SqlServerSpatial160.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\x64\SqlServerSpatial160.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\Guna.UI2.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmLayout.resources
+D:\My Project\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmSignIn.resources
+D:\My Project\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Ribbon.UC_QLSach_Ribbon.resources
+D:\My Project\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Ribbon.UC_QLTacGia_Ribbon.resources
+D:\My Project\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLSach.UC_ChiTietSach.resources
+D:\My Project\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.ChiTietSach.resources
+D:\My Project\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLSach.UC_DauSach.resources
+D:\My Project\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLSach.UC_CuonSach.resources
+D:\My Project\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLTacGia.UC_QLTacGia.resources
+D:\My Project\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLTacGia.UC_TacGiaSach.resources
+D:\My Project\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.TrangChu.UC_TrangChu.resources
+D:\My Project\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.CaiDat.UC_SaoLuu_PhucHoi.resources
+D:\My Project\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLDocGia.UC_QLDocGia.resources
+D:\My Project\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLMuonTra.UC_QLThuThu.resources
+D:\My Project\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Ribbon.UC_QLMuonTra_Ribbon.resources
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\x86\SqlServerSpatial160.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\x64\SqlServerSpatial160.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\QL_ThuVien.exe
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\QL_ThuVien.pdb
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\Guna.UI2.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\EnvDTE.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\stdole.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.AssemblyReference.cache
+D:\My Project\QL_ThuVien new\QL_ThuVien\obj\Debug\QL_ThuVien.ChiTietSach.resources
+D:\My Project\QL_ThuVien new\QL_ThuVien\obj\Debug\QL_ThuVien.frmLayout.resources
+D:\My Project\QL_ThuVien new\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.CaiDat.UC_SaoLuu_PhucHoi.resources
+D:\My Project\QL_ThuVien new\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLDocGia.UC_QLDocGia.resources
+D:\My Project\QL_ThuVien new\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLMuonTra.UC_QLThuThu.resources
+D:\My Project\QL_ThuVien new\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLSach.UC_ChiTietSach.resources
+D:\My Project\QL_ThuVien new\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLSach.UC_CuonSach.resources
+D:\My Project\QL_ThuVien new\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLSach.UC_DauSach.resources
+D:\My Project\QL_ThuVien new\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLTacGia.UC_QLTacGia.resources
+D:\My Project\QL_ThuVien new\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLTacGia.UC_TacGiaSach.resources
+D:\My Project\QL_ThuVien new\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.TrangChu.UC_TrangChu.resources
+D:\My Project\QL_ThuVien new\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
+D:\My Project\QL_ThuVien new\QL_ThuVien\obj\Debug\QL_ThuVien.frmSignIn.resources
+D:\My Project\QL_ThuVien new\QL_ThuVien\obj\Debug\QL_ThuVien.Ribbon.UC_QLMuonTra_Ribbon.resources
+D:\My Project\QL_ThuVien new\QL_ThuVien\obj\Debug\QL_ThuVien.Ribbon.UC_QLSach_Ribbon.resources
+D:\My Project\QL_ThuVien new\QL_ThuVien\obj\Debug\QL_ThuVien.Ribbon.UC_QLTacGia_Ribbon.resources
+D:\My Project\QL_ThuVien new\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.cache
+D:\My Project\QL_ThuVien new\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.CoreCompileInputs.cache
+D:\My Project\QL_ThuVien new\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.Up2Date
+D:\My Project\QL_ThuVien new\QL_ThuVien\obj\Debug\QL_ThuVien.exe
+D:\My Project\QL_ThuVien new\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\x86\SqlServerSpatial160.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\x64\SqlServerSpatial160.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\QL_ThuVien.exe
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\QL_ThuVien.pdb
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\Guna.UI2.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\EnvDTE.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\stdole.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.AssemblyReference.cache
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\obj\Debug\QL_ThuVien.ChiTietSach.resources
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\obj\Debug\QL_ThuVien.frmLayout.resources
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.CaiDat.UC_SaoLuu_PhucHoi.resources
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLDocGia.UC_QLDocGia.resources
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLMuonTra.UC_QLThuThu.resources
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLSach.UC_ChiTietSach.resources
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLSach.UC_CuonSach.resources
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLSach.UC_DauSach.resources
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLTacGia.UC_QLTacGia.resources
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLTacGia.UC_TacGiaSach.resources
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.TrangChu.UC_TrangChu.resources
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\obj\Debug\QL_ThuVien.frmSignIn.resources
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\obj\Debug\QL_ThuVien.Ribbon.UC_QLMuonTra_Ribbon.resources
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\obj\Debug\QL_ThuVien.Ribbon.UC_QLSach_Ribbon.resources
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\obj\Debug\QL_ThuVien.Ribbon.UC_QLTacGia_Ribbon.resources
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.cache
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.CoreCompileInputs.cache
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.Up2Date
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\obj\Debug\QL_ThuVien.exe
+D:\My Project\QL_ThuVien new - Copy (2)\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\x86\SqlServerSpatial160.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\x64\SqlServerSpatial160.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\QL_ThuVien.exe
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\QL_ThuVien.pdb
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\Guna.UI2.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\EnvDTE.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\stdole.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.AssemblyReference.cache
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.ChiTietSach.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.frmLayout.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.CaiDat.UC_SaoLuu_PhucHoi.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLDocGia.UC_QLDocGia.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLMuonTra.UC_QLThuThu.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLSach.UC_ChiTietSach.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLSach.UC_CuonSach.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLSach.UC_DauSach.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLTacGia.UC_QLTacGia.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLTacGia.UC_TacGiaSach.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.TrangChu.UC_TrangChu.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.frmSignIn.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.Ribbon.UC_QLMuonTra_Ribbon.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.Ribbon.UC_QLSach_Ribbon.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.Ribbon.UC_QLTacGia_Ribbon.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.cache
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.CoreCompileInputs.cache
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.Up2Date
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.exe
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.frmLoaiSach.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.frmChuDe.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.frmKhoSach.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.frmNXB.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.Ribbon.UC_CaiDat_Ribbon.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.CaiDat.UC_QLTaiKhoan.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLMuonTra.UC_PhieuMuon.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.frmNhapSach.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.frmTraSach.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLMuonTra.UC_PhieuTra.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.QLMuonTra.UC_PhieuPhat.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.frmInPhieuMuon.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.frmPhieuTra.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.frmInPhieuTra.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.frmInPhieuPhat.resources
+D:\My Project\QL_ThuVien new - new version\QL_ThuVien\obj\Debug\QL_ThuVien.Main_UC.BaoCao.UC_BaoCao.resources
